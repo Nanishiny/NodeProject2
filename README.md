@@ -1,7 +1,7 @@
 # Launch project   
   Vous avez deux manieres de lancer le projet:  
     - via la commande npm run start  
-    - via batect, dans le fichier source vous verrez un fichier yml, ce fichier nous sert a simplifier nos taches avec docker. Pour lancer le projet dans un container, aller  
+    - via batect, dans le fichier source vous verrez un fichier yml, ce fichier nous sert a simplifier nos taches avec docker. Pour lancer le projet dans un container, aller
     dans un terminal a la racine du projet, taper "./batect start-server" vous pouvez aussi voir la liste des taches que peux executer batect via "./batect --list-tasks"  
     
 Assurez vous que docker est bien lancé sur votre machine  
