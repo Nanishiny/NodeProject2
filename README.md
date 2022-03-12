@@ -1,5 +1,5 @@
 # Launch project 
-  Vous avez deux manieres de lancer le projet:
+  Vous avez deux manieres de lancer le projet:\n
     - via la commande npm run start
     - via batect, dans le fichier source vous verrez un fichier yml, ce fichier nous sert a simplifier nos tache avec docker. Pour lancer le projet dans un container dans un            terminal taper "./batect start-server" vous pouvez aussi voir la liste des taches que peux executer batact via "./batect --list-tasks"
     
